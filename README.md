@@ -12,4 +12,6 @@ run the project with the command:
 npm run dev 
 
 ![image](https://user-images.githubusercontent.com/89970476/234605816-a693d617-19df-4597-a83e-3983d25ad940.png)
+
+After clicking the page will update to something like this:
 ![image](https://user-images.githubusercontent.com/89970476/234605920-20ce5fae-41b9-4254-ad6f-9f9c41e82b62.png)
