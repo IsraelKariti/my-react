@@ -11,6 +11,8 @@ npm install
 run the project with the command:
 npm run dev 
 
+copy the link from the terminal to the browswer to see the website locally:
+
 ![image](https://user-images.githubusercontent.com/89970476/234605816-a693d617-19df-4597-a83e-3983d25ad940.png)
 
 After clicking the page will update to something like this:
