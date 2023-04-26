@@ -1,8 +1,15 @@
 # url_shortener_frontend
+installation instructions:
+install node.js 
 
-use 
+install npm packages with the command:
+npm install -g npm
+
+go to repo and install vite and other dependencies with the command:
+npm install
+
+run the project with the command:
 npm run dev 
-to make the app run in the browser
 
-after clicking the button a request to the server is sent and a shortened url is displayed
-![image](https://user-images.githubusercontent.com/89970476/233057798-7f2d1634-a1a1-4ce6-ab00-390f8c8ed986.png)
+![image](https://user-images.githubusercontent.com/89970476/234605816-a693d617-19df-4597-a83e-3983d25ad940.png)
+![image](https://user-images.githubusercontent.com/89970476/234605920-20ce5fae-41b9-4254-ad6f-9f9c41e82b62.png)
