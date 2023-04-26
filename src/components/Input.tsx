@@ -26,7 +26,7 @@ const Input = (props: Props) => {
     return (
         <input
             type="text"
-            className="form-control"
+            className="form-control p-2 m-2"
             id="basic-url"
             aria-describedby="basic-addon3 basic-addon4"
             placeholder="www.google.com"

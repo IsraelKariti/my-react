@@ -36,13 +36,13 @@ function App() {
                 setIsLongUrlValid={setIsLongUrlValid}
                 setLongUrl={setLongUrl}
                 setIsTyping={setIsTyping}
-            ></Input>
+            />
             {isTyping && (
                 <Button disabled={!isLongUrlValid} onClick={handleClick}>
-          SHORTEN
+                    SHORTEN
                 </Button>
             )}
-            {!isTyping && <p>{shortenedUrl}</p>}
+            {!isTyping && <p className='shorten p-2 m-2 rounded-3'>{shortenedUrl}</p>}
         </div>
     );
 }
